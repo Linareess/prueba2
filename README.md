@@ -1,3 +1,2 @@
 # prueba2
-testeo de inicializar un repo
-"titulo repo"
+# testeo de inicializar un repo
